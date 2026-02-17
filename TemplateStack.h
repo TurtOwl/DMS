@@ -63,7 +63,6 @@ public:
 
     bool empty() const {
         return size == 0;
-        // или: return topNode == nullptr;
     }
 
 
