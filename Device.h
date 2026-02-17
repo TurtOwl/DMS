@@ -1,4 +1,3 @@
-// Device.h
 #ifndef DEVICE_H
 #define DEVICE_H
 
@@ -19,4 +18,4 @@ public:
     virtual void PrintInfo() const = 0;
 };
 
-#endif // DEVICE_H
+#endif
