@@ -1,4 +1,3 @@
-// Device.cpp
 #include "Device.h"
 #include "DeviceException.h"
 #include <iostream>
